@@ -1,0 +1,25 @@
+bellman ford algorithm(no negative cycle)
+
+
+1) take a weighted graph witch has no negative cycle but negative edge and also take a source node
+
+2) output distance of all node from the source node
+
+3) creat a distance array and make all index = infinity  initially
+
+4) make the source node distance = 0
+
+5) call the bellman function with souce node
+
+
+
+.............NOW THE BELLMAN-FORD FUNCTION..............
+
+
+1) A FOR LOOP WILL CONTINUE n-1 time{
+
+-----NOW WE HAVE TO TRAVERS ALL THE EDGES
+
+     -------NOW THE RELAX PART WILL CONTINEU
+
+}
